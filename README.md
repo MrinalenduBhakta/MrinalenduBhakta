@@ -86,17 +86,28 @@
 
 ---
 
-## 🏆 Trophies & Contributions
+## 🧠 Problem Solving & Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrinalenduBhakta&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <!-- LeetCode Problem Solving Card -->
+  <a href="https://leetcode.com/u/MrinalenduBhakta/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/MrinalenduBhakta?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=MrinalenduBhakta&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <!-- Featured Project Card -->
+  <a href="https://github.com/MrinalenduBhakta/resilient-aqm" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=MrinalenduBhakta&repo=resilient-aqm&theme=dark&hide_border=false" alt="Featured Repository: Resilient AQM" />
+  </a>
   <br/><br/>
+  <!-- Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrinalenduBhakta&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MrinalenduBhakta&color=blueviolet&style=flat-square" alt="Profile Views" />
