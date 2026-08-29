@@ -1,34 +1,103 @@
-# 💫 About Me:
-🔭 I’m currently working on embedded IoT telemetry systems, custom sensor calibration, and low-level firmware integration.<br><br>👯 I’m looking to collaborate on open-source systems programming, operating system components, and microcontroller-based hardware projects.<br><br>🤝 I’m looking for help with advanced low-level kernel development, firmware optimization, and hardware-software co-design.<br><br>🌱 I’m currently learning low-level systems architecture, advanced operating system internals, and discrete algorithmic optimization.<br><br>💬 Ask me about ESP32 development, computer architecture, data structures & algorithms, and digital logic design.
+# 💫 About Me
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mrinalendu.bhakta.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mrinalendu_bhakta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mrinalendu-bhakta-030ba6321) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Mrinalendu-Bhakta-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BMrinalendu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mrinalendubhakta2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrinalendubhakta47@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MrinalenduBhakta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MrinalenduBhakta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrinalenduBhakta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrinalenduBhakta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrinalenduBhakta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔭 I’m currently working on **embedded IoT telemetry systems**, **custom sensor calibration**, and **low-level firmware integration**.  
+👯 Looking to collaborate on **open-source systems programming**, **operating system components**, and **microcontroller-based hardware projects**.  
+🤝 Seeking help with **advanced low-level kernel development**, **firmware optimization**, and **hardware-software co-design**.  
+🌱 Currently studying **low-level systems architecture**, **operating system internals**, and **discrete algorithmic optimization**.  
+💬 Ask me about **ESP32 development**, **computer organization & architecture**, **data structures & algorithms**, and **digital logic design**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=MrinalenduBhakta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mrinalendu-bhakta-030ba6321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/BMrinalendu" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:mrinalendubhakta47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.youtube.com/@mrinalendubhakta2005" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/mrinalendu_bhakta/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/mrinalendu.bhakta.5" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.quora.com/profile/Mrinalendu-Bhakta-1" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Systems
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Protocols, Databases & Cloud
+![Mosquitto MQTT](https://img.shields.io/badge/Mosquitto_MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Web & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MrinalenduBhakta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MrinalenduBhakta&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrinalenduBhakta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrinalenduBhakta/MrinalenduBhakta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrinalenduBhakta/MrinalenduBhakta/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/MrinalenduBhakta/MrinalenduBhakta/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏆 Trophies & Contributions
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrinalenduBhakta&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=MrinalenduBhakta&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrinalenduBhakta&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
